@@ -1,0 +1,20 @@
+The packages used for the current project are reported below
+
+numpy==1.22.4
+pandas==1.4.4
+matplotlib==3.7.1
+scikit-learn==1.2.2
+scipy==1.10.1
+tensorflow==2.12.0
+keras==2.12.0
+
+The package pynrrd (Version 1.0.0) has been used to import images from Nissl-stained dataset and the package tf_explain (Version 0.3.1) has been used to obtain 
+Class Activation Maps
+
+To install and import these packages using pip, please refer to the following lines of code:
+
+!pip install pynrrd
+import nrrd
+
+!pip install tf_explain
+from tf_explain.core.grad_cam import GradCAM

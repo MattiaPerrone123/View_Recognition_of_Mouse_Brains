@@ -1,6 +1,9 @@
 # View-Recognition-of-Mouse-Brains
 The aim of the current project is to implement a Convolutional Neural Network for the recognition of different views of mouse brain images (horizontal, coronal or sagittal).
-State-of-the-art EfficientNet B0 has been used for this task. The pre-trained model has been imported from Keras applications, and it has been fine tuned by training just the last five layers. Transfer learning on three different datasets has been used to train the model. As a result, all the images were correctly classified by the model. To gain insights into the model's performance generalizability, it was trained on a single dataset and then tested on the other two. Class activation maps were then used to have a better understanding of the model’s decision-making classification process and to identify areas of improvement.	
+
+State-of-the-art EfficientNet B0 has been used for this task. The pre-trained model has been imported from Keras applications, and it has been fine tuned by training just the last five layers. Transfer learning on three different datasets has been used to train the model. As a result, all the images were correctly classified by the model. 
+
+To gain insights into the model's performance generalizability, it was trained on a single dataset and then tested on the other two. Class activation maps were then used to have a better understanding of the model’s decision-making classification process and to identify areas of improvement.	
 
 
 

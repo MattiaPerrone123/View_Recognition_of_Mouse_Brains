@@ -12,7 +12,7 @@ A list of the packages used for this project is included in the file Requirement
 
 
 ## Dataset 
-Three different datasets, which are the BrainMap Atlas (1036), the Nissl-stained dataset (1312) and CCFv3 dataset (3049), were merged and used to train the model. By giving in input pictures coming from different image modalities and stains, the model becomes more robust for its predictions.
+Three different datasets, which are the BrainMap Atlas (1036 samples), the Nissl-stained dataset (1312 samples) and CCFv3 dataset (3049 samples), were merged and used to train the model. By giving in input pictures coming from different image modalities and stains, the model becomes more robust for its predictions.
 
 ## Images
 This folder includes a random image from each of the three planes with its own class activation map

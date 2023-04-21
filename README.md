@@ -6,13 +6,13 @@ State-of-the-art EfficientNet B0 has been used for this task. The pre-trained mo
 To gain insights into the model's performance generalizability, it was trained on a single dataset and then tested on the other two. Class activation maps were then used to have a better understanding of the model’s decision-making classification process and to identify areas of improvement.	
 
 
-
+<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98240588/233691726-af1a153f-2ad7-4bb4-b690-7bfce47b64b5.png" width="600" height="580">
 </p>
 
-
+<br>
 
 
 ## Dependencies

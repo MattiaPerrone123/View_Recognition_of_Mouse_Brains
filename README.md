@@ -9,7 +9,7 @@ To gain insights into the model's performance generalizability, it was trained o
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98240588/233691726-af1a153f-2ad7-4bb4-b690-7bfce47b64b5.png" width="500" height="580">
+  <img src="https://user-images.githubusercontent.com/98240588/233691726-af1a153f-2ad7-4bb4-b690-7bfce47b64b5.png" width="600" height="580">
 </p>
 
 
